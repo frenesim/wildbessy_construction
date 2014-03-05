@@ -23,8 +23,8 @@ font-family:"Helvetica Neue",Helvetica, Arial;
 	height: 100%;
 	top: 0;
 	left: 0;
-	opacity: 0.3;
-	filter: alpha(opacity = 30);
+	opacity: 0.6;
+	filter: alpha(opacity = 60);
 }
 
 #title_no_tranperency{
@@ -40,7 +40,7 @@ font-family:"Helvetica Neue",Helvetica, Arial;
 #main_title{
 	position: relative;
 	padding-top:20px;	
-	color:red;
+	color:rgb(206, 26, 56);
 	font-size:60px;
 	font-weight: bold;
 	opacity: 1;
