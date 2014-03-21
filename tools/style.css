@@ -125,10 +125,10 @@ background: #ededed;
 -moz-box-shadow: 1px 2px 3px #C6C5C5;
 -webkit-box-shadow: 1px 2px 3px #C6C5C5;
 float: left;
-text-align: left;
+text-align: center;
 height: 110px;
 padding: 3%;
-width: 25%;
+width: 40%;
 }
 
 .box2{
