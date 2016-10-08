@@ -47,16 +47,17 @@ font-family:"Helvetica Neue",Helvetica, Arial;
 }
 
 #sub_title{
-	padding-top:20px;
-	position: relative;
-	color: rgb(190,10,40);
+  padding-top:20px;
+  position: relative;
+  color: rgb(108, 0, 18);
+  font-weight: bold;
 	opacity: 1;
 }
 
 #orders_form{
 	position: relative;
 	margin:30px;
-	color: rgb(190,10,40);
+	color: rgb(108, 0, 18);
 	opacity: 1;
 }
 
