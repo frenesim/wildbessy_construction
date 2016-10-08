@@ -123,13 +123,10 @@ background: url(../images/shadow.png) left bottom no-repeat;
 .mcontent{
 min-height: 153px;
 background:#ebebeb url(../images/main.gif) left top repeat-x;
-width: 69%;
 border-left: 1px solid #f7f7f7;
 margin: 0 auto;
 border-right: 1px solid #f7f7f7;
 padding: 20px 0px 20px 20px;
-opacity: 0.6;
-filter: alpha(opacity = 60);
 }
 
 .box{
