@@ -122,9 +122,11 @@ background: url(../images/shadow.png) left bottom no-repeat;
 
 .mcontent{
 min-height: 153px;
+opacity: 0.7;
+filter: alpha(opacity = 70);
 background:#ebebeb url(../images/main.gif) left top repeat-x;
 border-left: 1px solid #f7f7f7;
-margin: 0 auto;
+margin: 1000 auto;
 border-right: 1px solid #f7f7f7;
 padding: 20px 0px 20px 20px;
 }
